@@ -28,7 +28,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  **![qgis](./media/qgis-32.png) Module 2: Open Source Desktop GIS - QGIS** |  |  |  | 
 | [![zoom icon](media/play-icon.png) Lecture 5 - QGIS]() | | | |
 |  [2-0 QGIS Tutorials (Intro)](https://classroom.github.com/a/W9SRSb3L) |  | 3/27 | 10 |
-|  [2-1 QGIS Tutorials (Intermediate)](https://classroom.github.com/classrooms/201280856-ua-gist604b-s25/assignments/2-1-qgis-tutorials-intermediate) |  | 10/24 | 10 |
+|  [2-1 QGIS Tutorials (Intermediate)](https://classroom.github.com/a/ybSLxUpx) |  | 3/28 | 10 |
 |  [2-2 QGIS Tutorials (Advanced)](https://classroom.github.com/a/5ILYZ_41) |  | 3/29 | 10 |
 |  [2-3 QGIS Secret Mutant Hero Team](https://classroom.github.com/a/l-WBhwxI) |  | 3/31 | 10 |
 |  **![docker](./media/docker-32.png) Module 3: Containerization - Docker** |  |  |  |
