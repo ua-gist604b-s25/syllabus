@@ -18,7 +18,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  **![open source](./media/open-source-32.png) Module 0: Introduction and Open Source** |  |  |  |
 | [![zoom icon](media/play-icon.png) Lecture 1 - Class Intro](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1a36dccb-853e-4f20-85d4-b2a20032901a) | | | |
 |  [0-0 GitHub Hello](https://classroom.github.com/a/kmiKqURq) | | 3/24 | 10 |
-| [![zoom icon](media/play-icon.png) Lecture 2 - Open Source Software]() | | | |
+| [![zoom icon](media/play-icon.png) Lecture 2 - Open Source Software](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=886287b1-84e9-415a-8901-b2a300321ae2) | | | |
 |  [0-1 Open Source Discovery](https://classroom.github.com/a/JZAqv92C) | | 3/24 | 10 |
 |  **![git](./media/git-32.png) Module 1: Source Code Management (git)** |  |  |  |
 | [![zoom icon](media/play-icon.png) Lecture 3 - GitHub Branch]() | | | |
