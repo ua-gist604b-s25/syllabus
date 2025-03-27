@@ -9,7 +9,7 @@ This class is logically divided into units to be completed over a seven-week tim
 
 ### Important links:
 - [D2L](https://d2l.arizona.edu/d2l/home/1526090)
-- [Discussions](https://github.com/ua-gist604b-f24/syllabus/discussions)
+- [Discussions](https://github.com/ua-gist604b-s25/syllabus/discussions)
 
 ### Schedule
 
