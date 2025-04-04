@@ -35,38 +35,38 @@ This class is logically divided into units to be completed over a seven-week tim
 | [![zoom icon](media/play-icon.png) Lecture 6 - Codespaces](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a92182d8-f79e-41bd-9cad-b2b2003f34b9) | | | |
 |  [3-0 Codespace Intro](https://classroom.github.com/a/CyBZ2EQ_) | | 4/3 | 10 |
 | [![zoom icon](media/play-icon.png) Lecture 7 - Docker] | | | |
-|  [3-1 Docker on Desktop] | | 4/4 | 10 |
-|  [3-2 Docker on Codespace] | | 4/5 | 10 |
+|  [3-1 Docker on Desktop] | | 4/9 | 10 |
+|  [3-2 Docker on Codespace] | | 4/9 | 10 |
 |  **![python](./media/python-32.png) Module 4: Open Source GIS Programming with Python** |  |  |  |
 | [![zoom icon](media/play-icon.png) Lecture 8 - Python Pandas] | | | |
-|  [4-0 Python Pandas](https://classroom.github.com/a/y6cEJTyO) |  | 4/8 | 10 |
+|  [4-0 Python Pandas](https://classroom.github.com/a/y6cEJTyO) |  | 4/12 | 10 |
 | [![zoom icon](media/play-icon.png) Lecture 9 - Python Geopandas] | | | |
-|  [4-1 Python GeoPandas Intro](https://classroom.github.com/a/9FKe5wBv) |  | 4/10 | 10 |
+|  [4-1 Python GeoPandas Intro](https://classroom.github.com/a/9FKe5wBv) |  | 4/14 | 10 |
 | [![zoom icon](media/play-icon.png) Lecture 10 - Python Geopandas Join] | | | |
-|  [4-2 Python GeoPandas Join](https://classroom.github.com/a/9d9NCyse) |  | 4/12 | 10 |
+|  [4-2 Python GeoPandas Join](https://classroom.github.com/a/9d9NCyse) |  | 4/16 | 10 |
 | [![zoom icon](media/play-icon.png) Lecture 11 - Python Rasterio] | | | |
-|  [4-3 Python Rasterio](https://classroom.github.com/a/l56RUCrv)|  | 4/15 | 10 |
+|  [4-3 Python Rasterio](https://classroom.github.com/a/l56RUCrv)|  | 4/18 | 10 |
 |  **![postgis](./media/postgis-32.png) Module 5: Open Source Spatial RDBMS - PostGIS** |  |  |  |
 | [![zoom icon](media/play-icon.png) Lecture 12 - SQL Intro] | | | |
-|  [5-0 SQL Intro](https://classroom.github.com/a/0r3S6nlR) |  | 4/17 | 10 |
+|  [5-0 SQL Intro](https://classroom.github.com/a/0r3S6nlR) |  | 4/21 | 10 |
 | [![zoom icon](media/play-icon.png) Lecture 13 - PostGIS Intro] | | | |
-|  [5-1 PostGIS Intro](https://classroom.github.com/a/tpsyYOob) |  | 4/18 | 10 |
+|  [5-1 PostGIS Intro](https://classroom.github.com/a/tpsyYOob) |  | 4/23 | 10 |
 | [![zoom icon](media/play-icon.png) Lecture 14 - PostGIS OSM Load] | | | |
-|  [5-2 PostGIS OSM Load](https://classroom.github.com/a/LyEm95zw) | | 4/20 | 10 |
+|  [5-2 PostGIS OSM Load](https://classroom.github.com/a/LyEm95zw) | | 4/25 | 10 |
 |  **![postgis](./media/ogc-32.png) Module 6: OGC Web Services** |  |  |  |
-|  [6-0 Geoserver Intro](https://classroom.github.com/a/VPY7JXIj) |  | 4/24 | 10 |
+|  [6-0 Geoserver Intro](https://classroom.github.com/a/VPY7JXIj) |  | 4/28 | 10 |
 | [![zoom icon](media/play-icon.png) Lecture 15 - Geoserver Intro] | | | |
-|  [6-1 Geoserver - OSM Load](https://classroom.github.com/a/3AKvHt3H) | | 4/26 | 10* |
+|  [6-1 Geoserver - OSM Load](https://classroom.github.com/a/3AKvHt3H) | | 4/30 | 10* |
 | [![zoom icon](media/play-icon.png) Lecture 16 - Geoserver OSM Load] | | | |
-|  [6-2 Geoserver - OSM Styles](https://classroom.github.com/a/-9KIZm9a) | | 4/28 | 10 |
+|  [6-2 Geoserver - OSM Styles](https://classroom.github.com/a/-9KIZm9a) | | 5/1 | 10 |
 | [![zoom icon](media/play-icon.png) Lecture 17 - Geoserver OSM Styles] | | | |
 |  **![leaflet](./media/leaflet-32.png) Module 7: Open Source GIS Web Development** |  |  |  |
-|  [7-0 WebGIS - Leaflet](https://classroom.github.com/a/uuJdOnl-) |  | 5/1 | 10 |
+|  [7-0 WebGIS - Leaflet](https://classroom.github.com/a/uuJdOnl-) |  | 5/4 | 10 |
 | [![zoom icon](media/play-icon.png) Lecture 18 - Leaflet Intro] | | | |
-|  [7-1 WebGIS - Python Web App](https://classroom.github.com/a/1O3Y5M1P) | | 5/3 | 10 |
+|  [7-1 WebGIS - Python Web App](https://classroom.github.com/a/1O3Y5M1P) | | 5/5 | 10 |
 | [![zoom icon](media/play-icon.png) Lecture 19 - Python Web App] | | | |
 |  **![leaflet](./media/gdal-32.png) Module 8: Open Source Tools - GDAL/OGR** |  |  |  |
-|  [8-0 GDAL](https://classroom.github.com/a/m7qQLwRX) |  | 5/5 | 10 |
+|  [8-0 GDAL](https://classroom.github.com/a/m7qQLwRX) |  | 5/7 | 10 |
 
 ## Official Dates
 See https://www.registrar.arizona.edu/dates-and-deadlines
