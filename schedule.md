@@ -34,9 +34,8 @@ This class is logically divided into units to be completed over a seven-week tim
 |  **![docker](./media/docker-32.png) Module 3: Containerization - Docker** |  |  |  |
 | [![zoom icon](media/play-icon.png) Lecture 6 - Codespaces](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a92182d8-f79e-41bd-9cad-b2b2003f34b9) | | | |
 |  [3-0 Codespace Intro](https://classroom.github.com/a/CyBZ2EQ_) | | 4/3 | 10 |
-| [![zoom icon](media/play-icon.png) Lecture 7 - Docker] | | | |
-|  [3-1 Docker on Desktop] | | 4/9 | 10 |
-|  [3-2 Docker on Codespace] | | 4/9 | 10 |
+| [![zoom icon](media/play-icon.png) Lecture 7 - Docker](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4617288a-095b-4f84-bd0b-b2b7004ac9ba) | | | |
+|  [3-1 Docker](https://classroom.github.com/a/MypNBZla) | | 4/9 | 10 |
 |  **![python](./media/python-32.png) Module 4: Open Source GIS Programming with Python** |  |  |  |
 | [![zoom icon](media/play-icon.png) Lecture 8 - Python Pandas] | | | |
 |  [4-0 Python Pandas](https://classroom.github.com/a/y6cEJTyO) |  | 4/12 | 10 |
