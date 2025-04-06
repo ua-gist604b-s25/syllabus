@@ -48,7 +48,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  **![postgis](./media/postgis-32.png) Module 5: Open Source Spatial RDBMS - PostGIS** |  |  |  |
 | [![zoom icon](media/play-icon.png) Lecture 12 - SQL Intro](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=79fd9cd8-bd68-4b7f-bdc7-b2b7016cb6d0) | | | |
 |  [5-0 SQL Intro](https://classroom.github.com/a/0r3S6nlR) |  | 4/21 | 10 |
-| [![zoom icon](media/play-icon.png) Lecture 13 - PostGIS Intro] | | | |
+| [![zoom icon](media/play-icon.png) Lecture 13 - PostGIS Intro](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0e39ba33-7ee3-4d80-bc15-b2b7017ea1df) | | | |
 |  [5-1 PostGIS Intro](https://classroom.github.com/a/tpsyYOob) |  | 4/23 | 10 |
 | [![zoom icon](media/play-icon.png) Lecture 14 - PostGIS OSM Load] | | | |
 |  [5-2 PostGIS OSM Load](https://classroom.github.com/a/LyEm95zw) | | 4/25 | 10 |
