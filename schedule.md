@@ -37,7 +37,7 @@ This class is logically divided into units to be completed over a seven-week tim
 | [![zoom icon](media/play-icon.png) Lecture 7 - Docker](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4617288a-095b-4f84-bd0b-b2b7004ac9ba) | | | |
 |  [3-1 Docker](https://classroom.github.com/a/MypNBZla) | | 4/9 | 10 |
 |  **![python](./media/python-32.png) Module 4: Open Source GIS Programming with Python** |  |  |  |
-| [![zoom icon](media/play-icon.png) Lecture 8 - Python Pandas] | | | |
+| [![zoom icon](media/play-icon.png) Lecture 8 - Python Pandas](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8ea2b8d8-8f4d-47a1-9a2b-b2b701177264) | | | |
 |  [4-0 Python Pandas](https://classroom.github.com/a/y6cEJTyO) |  | 4/12 | 10 |
 | [![zoom icon](media/play-icon.png) Lecture 9 - Python Geopandas] | | | |
 |  [4-1 Python GeoPandas Intro](https://classroom.github.com/a/9FKe5wBv) |  | 4/14 | 10 |
