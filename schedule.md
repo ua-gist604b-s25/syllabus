@@ -41,7 +41,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [4-0 Python Pandas](https://classroom.github.com/a/y6cEJTyO) |  | 4/12 | 10 |
 | [![zoom icon](media/play-icon.png) Lecture 9 - Python Geopandas](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=593d7d13-c2bb-4655-b3d9-b2b701275454) | | | |
 |  [4-1 Python GeoPandas Intro](https://classroom.github.com/a/9FKe5wBv) |  | 4/14 | 10 |
-| [![zoom icon](media/play-icon.png) Lecture 10 - Python Geopandas Join] | | | |
+| [![zoom icon](media/play-icon.png) Lecture 10 - Python Geopandas Join](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2e35b7fa-63aa-4ffd-98ae-b2b70138b399) | | | |
 |  [4-2 Python GeoPandas Join](https://classroom.github.com/a/9d9NCyse) |  | 4/16 | 10 |
 | [![zoom icon](media/play-icon.png) Lecture 11 - Python Rasterio] | | | |
 |  [4-3 Python Rasterio](https://classroom.github.com/a/l56RUCrv)|  | 4/18 | 10 |
