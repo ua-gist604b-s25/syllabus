@@ -43,7 +43,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [4-1 Python GeoPandas Intro](https://classroom.github.com/a/9FKe5wBv) |  | 4/14 | 10 |
 | [![zoom icon](media/play-icon.png) Lecture 10 - Python Geopandas Join](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2e35b7fa-63aa-4ffd-98ae-b2b70138b399) | | | |
 |  [4-2 Python GeoPandas Join](https://classroom.github.com/a/9d9NCyse) |  | 4/16 | 10 |
-| [![zoom icon](media/play-icon.png) Lecture 11 - Python Rasterio] | | | |
+| [![zoom icon](media/play-icon.png) Lecture 11 - Python Rasterio](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aa3343d2-35a3-417c-9411-b2b7015f6217) | | | |
 |  [4-3 Python Rasterio](https://classroom.github.com/a/l56RUCrv)|  | 4/18 | 10 |
 |  **![postgis](./media/postgis-32.png) Module 5: Open Source Spatial RDBMS - PostGIS** |  |  |  |
 | [![zoom icon](media/play-icon.png) Lecture 12 - SQL Intro] | | | |
