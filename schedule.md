@@ -51,18 +51,18 @@ This class is logically divided into units to be completed over a seven-week tim
 | [![zoom icon](media/play-icon.png) Lecture 13 - PostGIS Intro](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0e39ba33-7ee3-4d80-bc15-b2b7017ea1df) | | | |
 |  [5-1 PostGIS Intro](https://classroom.github.com/a/tpsyYOob) |  | 4/23 | 10 |
 | [![zoom icon](media/play-icon.png) Lecture 14 - PostGIS OSM Load] | | | |
-|  [5-2 PostGIS OSM Load](https://classroom.github.com/a/LyEm95zw) | | 4/25 | 10 |
+|  [5-2 PostGIS OSM Load](https://classroom.github.com/a/LyEm95zw) | | TBD | 10 |
 |  **![postgis](./media/ogc-32.png) Module 6: OGC Web Services** |  |  |  |
-|  [6-0 Geoserver Intro](https://classroom.github.com/a/VPY7JXIj) |  | 4/28 | 10 |
+|  [6-0 Geoserver Intro](https://classroom.github.com/a/VPY7JXIj) |  | TBD | 10 |
 | [![zoom icon](media/play-icon.png) Lecture 15 - Geoserver Intro] | | | |
-|  [6-1 Geoserver - OSM Load](https://classroom.github.com/a/3AKvHt3H) | | 4/30 | 10* |
+|  [6-1 Geoserver - OSM Load](https://classroom.github.com/a/3AKvHt3H) | | TBD | 10* |
 | [![zoom icon](media/play-icon.png) Lecture 16 - Geoserver OSM Load] | | | |
-|  [6-2 Geoserver - OSM Styles](https://classroom.github.com/a/-9KIZm9a) | | 5/1 | 10 |
+|  [6-2 Geoserver - OSM Styles](https://classroom.github.com/a/-9KIZm9a) | | TBD | 10 |
 | [![zoom icon](media/play-icon.png) Lecture 17 - Geoserver OSM Styles] | | | |
 |  **![leaflet](./media/leaflet-32.png) Module 7: Open Source GIS Web Development** |  |  |  |
-|  [7-0 WebGIS - Leaflet](https://classroom.github.com/a/uuJdOnl-) |  | 5/4 | 10 |
+|  [7-0 WebGIS - Leaflet](https://classroom.github.com/a/uuJdOnl-) |  | TBD | 10 |
 | [![zoom icon](media/play-icon.png) Lecture 18 - Leaflet Intro] | | | |
-|  [7-1 WebGIS - Python Web App](https://classroom.github.com/a/1O3Y5M1P) | | 5/5 | 10 |
+|  [7-1 WebGIS - Python Web App](https://classroom.github.com/a/1O3Y5M1P) | | TBD | 10 |
 | [![zoom icon](media/play-icon.png) Lecture 19 - Python Web App] | | | |
 |  **![leaflet](./media/gdal-32.png) Module 8: Open Source Tools - GDAL/OGR** |  |  |  |
 |  [8-0 GDAL](https://classroom.github.com/a/m7qQLwRX) |  | 5/7 | 10 |
