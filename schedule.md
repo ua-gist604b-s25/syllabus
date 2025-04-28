@@ -50,11 +50,11 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [5-0 SQL Intro](https://classroom.github.com/a/0r3S6nlR) |  | 4/21 | 10 |
 | [![zoom icon](media/play-icon.png) Lecture 13 - PostGIS Intro](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0e39ba33-7ee3-4d80-bc15-b2b7017ea1df) | | | |
 |  [5-1 PostGIS Intro](https://classroom.github.com/a/tpsyYOob) |  | 4/23 | 10 |
-| [![zoom icon](media/play-icon.png) Lecture 14 - PostGIS OSM Load] | | | |
+| [![zoom icon](media/play-icon.png) Lecture 14 - PostGIS OSM Load](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=65b09f65-da32-4513-a263-b2cc01878bde) | | | |
 |  [5-2 PostGIS OSM Load](https://classroom.github.com/a/LyEm95zw) | | TBD | 10 |
 |  **![postgis](./media/ogc-32.png) Module 6: OGC Web Services** |  |  |  |
 |  [6-0 Geoserver Intro](https://classroom.github.com/a/VPY7JXIj) |  | TBD | 10 |
-| [![zoom icon](media/play-icon.png) Lecture 15 - Geoserver Intro] | | | |
+| [![zoom icon](media/play-icon.png) Lecture 15 - Geoserver Intro](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0825bffb-6ed5-4cff-b52a-b2cc0182cc35) | | | |
 |  [6-1 Geoserver - OSM Load](https://classroom.github.com/a/3AKvHt3H) | | TBD | 10* |
 | [![zoom icon](media/play-icon.png) Lecture 16 - Geoserver OSM Load] | | | |
 |  [6-2 Geoserver - OSM Styles](https://classroom.github.com/a/-9KIZm9a) | | TBD | 10 |
